@@ -1,0 +1,7 @@
+{
+  "name": "nodash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nathan Quarles <nathan.quarles@theorem.co>",
+  "license": "MIT"
+}
